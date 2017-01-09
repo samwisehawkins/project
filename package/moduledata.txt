@@ -1,0 +1,2 @@
+This is an example of a non-python
+dependency which may need to be bundled

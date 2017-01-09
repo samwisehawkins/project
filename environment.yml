@@ -1,0 +1,4 @@
+name: project
+dependencies:
+- python=3.4
+- pytest
